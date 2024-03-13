@@ -1,0 +1,22 @@
+import = ["/home/matiponiat/.config/alacritty/catppuccin-mocha.toml"]
+
+[font]
+size = 12
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+
+[[keyboard.bindings]]
+action = "ToggleFullscreen"
+key = "F11"
+
+[shell]
+program = "/usr/bin/zsh"
+
+[window]
+decorations = "full"
+opacity = 1
+
+[window.dimensions]
+columns = 120
+lines = 35
